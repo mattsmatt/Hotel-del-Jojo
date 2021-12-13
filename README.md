@@ -7,10 +7,10 @@ Berikut adalah harga dari kamar-kamar yang kami punya:
 <table>
   <th>
     <td>
-      Tipe Kamar
+      <b>Tipe Kamar</b>
     </td>
     <td>
-      Harga
+      <b>Harga</b>
     </td>
   </th>
   <tr>
