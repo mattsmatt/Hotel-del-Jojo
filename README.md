@@ -21,7 +21,7 @@ Berikut adalah harga dari kamar-kamar yang kami punya:
       Pantai
     </td>
     <td>
-      ~W~3,000,0000
+      ~~W~~3,000,0000
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@ Berikut adalah harga dari kamar-kamar yang kami punya:
       Rooftop
     </td>
     <td>
-      ~W~4,500,0000
+      ~~W~~4,500,0000
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ Berikut adalah harga dari kamar-kamar yang kami punya:
       Taman
     </td>
     <td>
-      ~W~5,000,0000
+      ~~W~~5,000,0000
     </td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ Berikut adalah harga dari kamar-kamar yang kami punya:
       Bar
     </td>
     <td>
-      ~W~1,250,0000
+      ~~W~~1,250,0000
     </td>
   </tr>
 </table>
